@@ -8,7 +8,7 @@ It's very easy. Don't need to be an expert in coding. Follow the below steps you
 2. Click on Add File button and select Create new file button.
 3. Set the file name with `Your-Full-Name.md` and make your short profile with the following:
 ```
-### YOUR FULL NAME
+### YOUR FULL NAME:
 - Photo: YOUR PHOTO URL
 - Location: COUNTRY
 - Github: YOUR GITHUB URL
@@ -17,7 +17,7 @@ It's very easy. Don't need to be an expert in coding. Follow the below steps you
 Example:
 
 ```
-### Tarun Singh
+### Tarun Singh:
 - Photo: https://your_image_url
 - Location: India
 - Github: https://github.com/tarunsinghofficial
@@ -27,7 +27,7 @@ Example:
 5. Create a new pull request from your forked repository (Button located at the top of your repo)
 8. Star this repository!
 
-### Show some love 😄 
+### Show some love: 😄 
 <a href="https://github.com/tarunsinghofficial" aria-label="Follow @tarunsinghofficial on GitHub"><img  src="https://img.shields.io/badge/Follow👉-@tarunsinghofficial-green?style=for-the-badge"  />
 </a>
 <br>
